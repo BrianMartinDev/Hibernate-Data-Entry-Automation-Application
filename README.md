@@ -5,6 +5,13 @@
 purchasing experience for the harry potter wand shop. 
 ## Database
 ![characters_database_snapshot](https://github.com/BrianMartinGit/Hibernate-Data-Entry-Automation-Application/blob/master/images/characters_database_snapshot.PNG)
+
+### If user selects slytherin, helpful or harry potter from the form show wands from these charaters
+
+![query_database_snapshot](
+https://github.com/BrianMartinGit/Hibernate-Data-Entry-Automation-Application/blob/master/images/shop_query.PNG)
+
+https://github.com/BrianMartinGit/Hibernate-Data-Entry-Automation-Application/blob/master/images/shop_query.PNG
  
 ## CHARACTERS
 
