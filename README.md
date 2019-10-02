@@ -3,6 +3,8 @@ Hibernate Data Entry Automation Application that connects to a database and read
 
 The purpose of this application is to run database queries to generate complex SQL queries to generate a curated customer wand 
 purchasing experience for the harry potter wand shop. 
+## Database
+![characters_database_snapshot](https://github.com/BrianMartinGit/Hibernate-Data-Entry-Automation-Application/blob/master/images/characters_database_snapshot.PNG)
  
 ## CHARACTERS
 
