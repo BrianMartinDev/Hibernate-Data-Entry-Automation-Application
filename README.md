@@ -223,3 +223,5 @@ Adventurous Helpful Confident Fearless Trusting
 
 Harry Potter Hermione Granger Ron Weasley
 
+## Data Flow
+![Logic](https://github.com/BrianMartinGit/Hibernate-Data-Entry-Automation-Application/blob/master/images/Data%20Logic.png)
