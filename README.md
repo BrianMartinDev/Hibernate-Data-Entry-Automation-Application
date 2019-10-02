@@ -1,7 +1,7 @@
 # Hibernate-Data-Entry-Automation-Application
-Hibernate Data Entry Automation Application that connects to a database and reads data from a text file and the command line console.
+### Hibernate Data Entry Automation Application that connects to a database and reads data from a text file and the command line console.
 
-The purpose of this application is to run database queries to generate complex SQL queries to generate a curated customer wand 
+###The purpose of this application is to run database queries to generate complex SQL queries to generate a curated customer wand 
 purchasing experience for the harry potter wand shop. 
 ## Database
 ![characters_database_snapshot](https://github.com/BrianMartinGit/Hibernate-Data-Entry-Automation-Application/blob/master/images/characters_database_snapshot.PNG)
