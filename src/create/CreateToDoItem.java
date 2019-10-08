@@ -38,10 +38,17 @@ public class CreateToDoItem {
                     System.out.println("Input a Character: ");
                     Scanner inputCharacter = new Scanner(System.in);
                     // Console inputs for a character
+                    System.out.println("Enter name of Character");
                     String characterName = inputCharacter.nextLine();
+                    System.out.println("Enter house of Character");
                     String characterHouse = inputCharacter.nextLine();
+                    System.out.println("Enter trait of Character");
                     String characterTraits = inputCharacter.nextLine();
+                    System.out.println("Enter friend of Character");
                     String characterFriend = inputCharacter.nextLine();
+                    System.out.println("Name " + " | " + "House" + " | " + "Trait" + " | " + "Friend");
+                    System.out.println("__________________________________");
+                    System.out.println(characterName + " | " + characterHouse + " | " + characterTraits + " | " + characterFriend);
 
                     // create session factory
                     SessionFactory factory = new Configuration()
@@ -92,11 +99,18 @@ public class CreateToDoItem {
 
                         Scanner inpuTest = new Scanner(System.in);
                         // Console inputs for a character test
-                        String name = inpuTest.nextLine();
-                        String name2 = inpuTest.nextLine();
-                        String name3 = inpuTest.nextLine();
-                        String name4 = inpuTest.nextLine();
-                        System.out.println("Row " + " | " + name + " | " + name2 + " | " + name3 + " | " + name4);
+                        System.out.println("Enter name of Character");
+                        String test1 = inpuTest.nextLine();
+                        System.out.println("Enter house of Character");
+
+                        String test2 = inpuTest.nextLine();
+                        System.out.println("Enter trait of Character");
+                        String test3 = inpuTest.nextLine();
+                        System.out.println("Enter friend of Character");
+                        String test4 = inpuTest.nextLine();
+                        System.out.println("Name " + " | " + "House" + " | " + "Trait" + " | " + "Friend");
+                        System.out.println("__________________________________");
+                        System.out.println(test1 + " | " + test2 + " | " + test3 + " | " + test4);
 
                     } finally {
 
