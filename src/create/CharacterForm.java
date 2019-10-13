@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  * @Author Brian Martin
  */
-public class CreateToDoItem {
+public class CharacterForm {
 
     public static void main(String[] args) {
 
